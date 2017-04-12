@@ -4,6 +4,5 @@ Line 3
 Line 4a
 Line 5
 Line 6
-Line 7LocalChange	
-
+Line 7Agreed line change, local and by someone else
 
